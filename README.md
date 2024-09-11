@@ -23,8 +23,8 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 **Key Features:**
 - The use of the Incident Response frame work following: [NIST](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
 
-**Technologies Used:** [VirusTotal, splunk, wireshark]  
-**Skills Demonstrated:** [incident analysis and classification, technical proficiency, knowledge of frameworks.]
+**Technologies Used:** VirusTotal, splunk, wireshark  
+**Skills Demonstrated:** incident analysis and classification, technical proficiency, knowledge of frameworks.
 
 ---
 
