@@ -28,15 +28,18 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 2. [Project Name](link to project)
-**Description:** Briefly describe what this project is about, the problem it solves, or the key learning outcomes.  
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+### 2. Algorithm for file updates in python 
+- [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python_logo_2015.svg)](https://github.com/MrDerry10/Algorithm-With-Python)
 
-**Technologies Used:** [List tools, programming languages, or frameworks]  
-**Skills Demonstrated:** [List skills such as web application security, exploit development]
+ 
+**Description:** This is a detailed practical example of how to manage and update access control lists. It demonstrates my understanding of file handling and list operations in Python.
+**Key Features:**
+- file handling
+- list manipulation
+- algorithm implementation
+
+**Technologies Used:** [Python]  
+**Skills Demonstrated:** [data structres, File I/O operations]
 
 ---
 
