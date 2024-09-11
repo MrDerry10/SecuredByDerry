@@ -49,8 +49,8 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ## 📊 Stats and Achievements
 
-- 🥇 **Certifications:** [Google Cybersecurity Professional Certificate](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
-
+- 🥇 **Certifications:**
+  -  [Google Cybersecurity Professional Certificate](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
   - [Microsoft fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
   - It help desk for beginners
   
