@@ -38,8 +38,8 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 - list manipulation
 - algorithm implementation
 
-**Technologies Used:** [Python]  
-**Skills Demonstrated:** [data structres, File I/O operations]
+**Technologies Used:** Python  
+**Skills Demonstrated:** data structres, File I/O operations
 
 ---
 
