@@ -1,6 +1,6 @@
 # 🚀 Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! Here you'll find a collection of my projects, tools, and research in the field of cybersecurity. These projects showcase my skills and knowledge in areas such as network security, threat analysis, penetration testing, and more.
+Welcome to my cybersecurity portfolio! Here you'll find a collection of my projects, tools, and research in the field of cybersecurity. These projects showcase my skills and knowledge in areas such as network security, threat analysis, Incident and response and more. 
 
 ## 🛡️ About Me
 
@@ -49,7 +49,8 @@ I am a cybersecurity enthusiast with a passion for protecting digital assets and
 ## 📊 Stats and Achievements
 
 - 🥇 **Certifications:** [Google Cybersecurity Professional Certificate](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
-                                   [Microsoft fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
+
+   [Microsoft fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
                            It help desk for beginners
   
 
@@ -57,8 +58,8 @@ I am a cybersecurity enthusiast with a passion for protecting digital assets and
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out:
 
-- **Email:** [Dsmithwilkie@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/derry-smith-wilkie]
+- **Email:** Dsmithwilkie@gmail.com
+- **LinkedIn:** www.linkedin.com/in/derry-smith-wilkie
 - 
 
 ---
