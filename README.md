@@ -13,7 +13,8 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ## 📂 Projects
 
-### 1. [Using an Incident handlers journal]()
+### 1. [Using an Incident handlers journal]
+git add path/
 **Description:** Briefly describe what this project is about, the problem it solves, or the key learning outcomes.  
 **Key Features:**
 - Feature 1
@@ -50,8 +51,9 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 ## 📊 Stats and Achievements
 
 - 🥇 **Certifications:**
-  -  [Google Cybersecurity Professional Certificate](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
-  - [Microsoft fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
+  -  [<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
+  - [<img src="https://img.shields.io/badge/-Microsoft%20Fundamentals%20Certificate-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white" />
+](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
   - It help desk for beginners. LinkedIN. 
   
 
@@ -59,9 +61,8 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 If you have any questions, suggestions, or would like to collaborate, feel free to reach out:
 
-- **Email:** Dsmithwilkie@gmail.com
-- **LinkedIn:** www.linkedin.com/in/derry-smith-wilkie
-
+- <a href="https://linkedin.com/in/derry-smith-wilkie/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- Dsmithwilkie@gmail.com
 
 ---
 
