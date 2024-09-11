@@ -13,16 +13,18 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ## 📂 Projects
 
-### 1. [Using an Incident handlers journal]
-git add path/
-**Description:** Briefly describe what this project is about, the problem it solves, or the key learning outcomes.  
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+### 1. Using an Incident handlers journal
+- <a href="https://github.com/MrDerry10/Incident-Handling-Journal">
+  <img src="https://path-to-your-image/logo.png" alt="Incident Handling Journal" style="width:150px;height:auto;border:0;">
+</a>
 
-**Technologies Used:** [List tools, programming languages, or frameworks]  
-**Skills Demonstrated:** [List skills such as vulnerability assessment, network scanning]
+ 
+**Description:** This project is a demonstration of how I have used an incident handlers journal to investigate security inicidents. 
+**Key Features:**
+- The use of the Incident Response frame work following: [NIST](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+
+**Technologies Used:** [VirusTotal, splunk, wireshark]  
+**Skills Demonstrated:** [incident analysis and classification, technical proficiency, knowledge of frameworks.]
 
 ---
 
