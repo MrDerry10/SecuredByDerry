@@ -6,9 +6,9 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 I am a cybersecurity enthusiast with a passion for protecting digital assets and ensuring data security. I am currently pursuing studies in cybersecurity, with a focus on [mention specific areas of interest, e.g., penetration testing, network security, threat intelligence].
 
-- 📚 **Current Learning:** [CompTIA Security+]
-- 🧠 **Skills:** [Incident response and handling, vulnerability response, risk management and compliance, zero trust architecture, intrusion detection.]
-- 🛠️ **Tools:** [Wireshark, Tcpdump, Azure, Linux commmand line, Nmap, Metasploit, splunk, virustotal, EDR.]
+- 📚 **Current Learning:** CompTIA Security+
+- 🧠 **Skills:** Incident response and handling, vulnerability response, risk management and compliance, zero trust architecture, intrusion detection.
+- 🛠️ **Tools:** Wireshark, Tcpdump, Azure, Linux commmand line, Nmap, Metasploit, splunk, virustotal, EDR.
 
 ## 📂 Projects
 
