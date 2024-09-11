@@ -4,7 +4,8 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ## 🛡️ About Me
 
-I am a cybersecurity enthusiast with a passion for protecting digital assets and ensuring data security. I am currently pursuing studies in cybersecurity, with a focus on [mention specific areas of interest, e.g., penetration testing, network security, threat intelligence].
+> 🔥 Aspiring SOC Analyst diving into the world of cybersecurity! 🕵️‍♂️ Passionate about detecting threats, analyzing alerts, and keeping networks safe. Always learning, always curious—let’s hunt some threats together! 🚨👾
+
 
 - 📚 **Current Learning:** CompTIA Security+
 - 🧠 **Skills:** Incident response and handling, vulnerability response, risk management and compliance, zero trust architecture, intrusion detection.
@@ -50,8 +51,8 @@ I am a cybersecurity enthusiast with a passion for protecting digital assets and
 
 - 🥇 **Certifications:** [Google Cybersecurity Professional Certificate](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
 
-   [Microsoft fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
-                           It help desk for beginners
+  - [Microsoft fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
+  - It help desk for beginners
   
 
 ## 📬 Contact
@@ -60,7 +61,7 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 - **Email:** Dsmithwilkie@gmail.com
 - **LinkedIn:** www.linkedin.com/in/derry-smith-wilkie
-- 
+
 
 ---
 
