@@ -13,7 +13,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ## 📂 Projects
 
-### 1. [Project Name](link to project)
+### 1. [Using an Incident handlers journal]()
 **Description:** Briefly describe what this project is about, the problem it solves, or the key learning outcomes.  
 **Key Features:**
 - Feature 1
@@ -52,7 +52,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 - 🥇 **Certifications:**
   -  [Google Cybersecurity Professional Certificate](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
   - [Microsoft fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
-  - It help desk for beginners
+  - It help desk for beginners. LinkedIN. 
   
 
 ## 📬 Contact
