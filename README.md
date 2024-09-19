@@ -13,8 +13,11 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ## 📂 Projects
 
-### 1. Active Directory 
-- <a href="https://github.com/MrDerry10/">
+### 1. Active Directory <a href="https://github.com/MrDerry10/AD-Project">
+- <a href="https://github.com/MrDerry10/AD-Project" title="Active Directory Project">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Microsoft_Active_Directory_logo.svg/1024px-Microsoft_Active_Directory_logo.svg.png" alt="Active Directory project" style="width:16px;height:16px;vertical-align:middle;">
+</a>
+
 
 **Description:** Setting up an Active Directory home lab with Splunk, Kali Linux, and Atomic Red Team.   
 **Key Features:**
