@@ -9,7 +9,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 - 📚 **Current Learning:** CompTIA Security+
 - 🧠 **Skills:** Incident response and handling, vulnerability response, risk management and compliance, zero trust architecture, intrusion detection.
-- 🛠️ **Tools:** Wireshark, Tcpdump, Azure, Linux commmand line, Nmap, Metasploit, splunk, virustotal, EDR.
+- 🛠️ **Tools:** Active Directory, Wireshark, Tcpdump, Azure, Linux commmand line, Metasploit, splunk, virustotal, EDR.
 
 ## 📂 Projects
 
