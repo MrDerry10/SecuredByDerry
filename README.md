@@ -31,7 +31,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-2. ### SOAR-EDR Integration <a href="https://github.com/MrDerry10/SOAR-EDR-Project">
+2. ### SOAR-EDR Integration <a href="https://github.com/MrDerry10/SOAR-EDR">
 <a href="https://github.com/MrDerry10/SOAR-EDR-Project" title="SOAR-EDR Integration Project"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Automation-Logo.png" alt="SOAR EDR Project" style="width:16px;height:16px;vertical-align:middle;">
 </a>
 
