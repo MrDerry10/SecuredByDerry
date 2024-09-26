@@ -31,7 +31,23 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 2. Algorithm for file updates in python 
+2. ### SOAR-EDR Integration <a href="https://github.com/MrDerry10/SOAR-EDR-Project">
+<a href="https://github.com/MrDerry10/SOAR-EDR-Project" title="SOAR-EDR Integration Project"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Automation-Logo.png" alt="SOAR EDR Project" style="width:16px;height:16px;vertical-align:middle;">
+</a>
+
+
+**Description:** Integration of SOAR (Tines) and EDR (LimaCharlie) to automate threat detection and response processes.   
+**Key Features:**
+- Automated detection and response workflows using SOAR
+- EDR integration for endpoint monitoring and threat mitigation
+- Custom playbooks for incident response
+
+**Technologies Used:** LimaCharlie (EDR), Tines (SOAR), Slack, APIs, Automation workflows.   
+**Skills Demonstrated:** SOAR automation, EDR integration, building custom incident response playbooks, and scripting with APIs.
+
+---
+
+### 3. Algorithm for file updates in python 
 - [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python_logo_2015.svg)](https://github.com/MrDerry10/Algorithm-With-Python)
 
  
@@ -46,7 +62,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 3. Using an Incident handlers journal
+### 4. Using an Incident handlers journal
 - <a href="https://github.com/MrDerry10/Incident-Handling-Journal">
   <img src="https://path-to-your-image/logo.png" alt="Incident Handling Journal" style="width:150px;height:auto;border:0;">
 </a>
