@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 > 🔥 Aspiring SOC Analyst diving into the world of cybersecurity! 🕵️‍♂️ Passionate about detecting threats, analyzing alerts, and keeping networks safe. Always learning, always curious—let’s hunt some threats together! 🚨👾
 
 
-- 📚 **Current Learning:** CompTIA Security+
+- 📚 **Current Learning:** CompTIA Netowrk+
 - 🧠 **Skills:** Incident response and handling, vulnerability response, risk management and compliance, zero trust architecture, intrusion detection.
 - 🛠️ **Tools:** Active Directory, Wireshark, Tcpdump, Azure, Linux commmand line, Metasploit, splunk, virustotal, EDR.
 
@@ -78,7 +78,9 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 ## 📊 Stats and Achievements
 
 - 🥇 **Certifications:**
-  -  [<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
+  - <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20Certified%20-EA161F?style=for-the-badge&logo=comptia&logoColor=white" />
+
+  -   [<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
   - [<img src="https://img.shields.io/badge/-Microsoft%20Fundamentals%20Certificate-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white" />
 ](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
   - It help desk for beginners. LinkedIN. 
