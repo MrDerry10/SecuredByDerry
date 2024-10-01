@@ -78,8 +78,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 ## 📊 Stats and Achievements
 
 - 🥇 **Certifications:**
-  - <img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20Certified%20-EA161F?style=for-the-badge&logo=comptia&logoColor=white" />
-
+  - [<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20Certified%20-EA161F?style=for-the-badge&logo=comptia&logoColor=white" />](https://www.credly.com/badges/48252b34-52aa-4d1b-a15f-0520a437a9b2/public_url)
   -   [<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />](https://coursera.org/share/6372766bef41ddc62d4228860ece5d39)
   - [<img src="https://img.shields.io/badge/-Microsoft%20Fundamentals%20Certificate-00A1F1?style=for-the-badge&logo=microsoft&logoColor=white" />
 ](https://learn.microsoft.com/api/credentials/share/en-us/derrysmithwilkie-4184/90EFC77AF04E51D4?sharingId=ED38EFC6BC5EF6AE)
