@@ -47,8 +47,8 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 3. Azure Honeypot <a href="https://github.com/MrDerry10/Honeypot">
-- <a href="https://github.com/MrDerry10/AD-Project" title="Honeypot">
+### 3. Azure Honeypot <a href="https://github.com/MrDerry10/HoneyPot">
+- <a href="https://github.com/MrDerry10/HoneyPot" title="HoneyPot">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cloud_computing_%28Azure%29_logo.png" alt="Honeypot project" style="width:16px;height:16px;vertical-align:middle;">
 </a>
 
