@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 > 🔥 Aspiring SOC Analyst diving into the world of cybersecurity! 🕵️‍♂️ Passionate about detecting threats, analyzing alerts, and keeping networks safe. Always learning, always curious—let’s hunt some threats together! 🚨👾
 
 
-- 📚 **Current Learning:** CompTIA Netowrk+
+- 📚 **Current Learning:** CompTIA Network+
 - 🧠 **Skills:** Incident response and handling, vulnerability response, risk management and compliance, zero trust architecture, intrusion detection.
 - 🛠️ **Tools:** Active Directory, Wireshark, Tcpdump, Azure, Linux commmand line, Metasploit, splunk, virustotal, EDR.
 
@@ -47,7 +47,26 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 3. Algorithm for file updates in python 
+### 3. Azure Honeypot <a href="https://github.com/MrDerry10/Honeypot">
+- <a href="https://github.com/MrDerry10/AD-Project" title="Honeypot">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cloud_computing_%28Azure%29_logo.png" alt="Honeypot project" style="width:16px;height:16px;vertical-align:middle;">
+</a>
+
+
+
+**Description:**   Created a honeypot on Azure to simulate RDP brute-force attacks, leveraging geolocation APIs, PowerShell scripting, and Azure Sentinel for security monitoring. Developed a heatmap visualization using custom queries and implemented MFA for enhanced protection.
+**Key Features:**
+- Azure virtual machine creation. 
+- Powershell ISE for scripting.
+- Azure Log analalytics workspace for ingestion.
+- Azure Senitnel for SIEM monitoring.
+
+**Technologies Used:** Virtual Machines, Powershell ISE, Azure log analytics, Azure Sentinel.
+**Skills Demonstrated:** Setting up VMs on Azure, Using Azure Sentinel, Writing scripts with Powershell ISE, Data Analysis. 
+
+---
+
+### 4. Algorithm for file updates in python 
 - [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python_logo_2015.svg)](https://github.com/MrDerry10/Algorithm-With-Python)
 
  
@@ -62,7 +81,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 4. Using an Incident handlers journal
+### 5. Using an Incident handlers journal
 - <a href="https://github.com/MrDerry10/Incident-Handling-Journal">
   <img src="https://path-to-your-image/logo.png" alt="Incident Handling Journal" style="width:150px;height:auto;border:0;">
 </a>
