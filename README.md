@@ -66,6 +66,20 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
+### 4. Network Security implementation
+<a href="https://github.com/MrDerry10/NetworkSecurity" title="Network Security Implementation Project"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Network-security.png" alt="Network Security Project" style="width:16px;height:16px;vertical-align:middle;"> </a>
+
+**Description:** Configured a secure, encrypted network using a firewall, VPN, and IDS in a sandbox environment to protect against network threats.
+**Key Features:**
+- Firewall configuration to manage inbound and outbound network traffic
+- VPN setup for encrypted communication
+- Snort IDS installation for real-time threat detection and traffic monitoring
+- Wireshark used for traffic analysis
+- Technologies Used: Windows Firewall, OpenVPN, Snort (IDS), Wireshark.
+- Skills Demonstrated: Network security configuration, VPN setup, IDS implementation, network traffic analysis, and using security tools like Snort and Wireshark.
+
+---
+
 ### 4. Algorithm for file updates in python 
 - [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python_logo_2015.svg)](https://github.com/MrDerry10/Algorithm-With-Python)
 
