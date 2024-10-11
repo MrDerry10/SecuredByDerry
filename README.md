@@ -31,7 +31,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-2. ### SOAR-EDR Integration <a href="https://github.com/MrDerry10/SOAR-EDR">
+### 2. SOAR-EDR Integration <a href="https://github.com/MrDerry10/SOAR-EDR">
 <a href="https://github.com/MrDerry10/SOAR-EDR" title="SOAR-EDR Integration Project"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Automation-Logo.png" alt="SOAR EDR Project" style="width:16px;height:16px;vertical-align:middle;">
 </a>
 
@@ -80,7 +80,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 4. Algorithm for file updates in python 
+### 5. Algorithm for file updates in python 
 - [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python_logo_2015.svg)](https://github.com/MrDerry10/Algorithm-With-Python)
 
  
@@ -95,7 +95,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 5. Using an Incident handlers journal
+### 6. Using an Incident handlers journal
 - <a href="https://github.com/MrDerry10/Incident-Handling-Journal">
   <img src="https://path-to-your-image/logo.png" alt="Incident Handling Journal" style="width:150px;height:auto;border:0;">
 </a>
