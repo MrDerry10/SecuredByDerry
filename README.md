@@ -30,8 +30,34 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 **Skills Demonstrated:** setting up AD, Deploying and using Splunk, gernerating and analysing telemetry data.
 
 ---
+### 2. SOC Lab Project <a href="https://github.com/MrDerry10/SOC-Lab">
+- <a href="https://github.com/MrDerry10/SOC-Lab" title="SOC Lab Project">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cloud_computing_%28Azure%29_logo.png" alt="SOC Lab project" style="width:16px;height:16px;vertical-align:middle;">
+</a>
 
-### 2. SOAR-EDR Integration <a href="https://github.com/MrDerry10/SOAR-EDR">
+**Description:**   Created a Security Operations Center (SOC) lab environment in Azure to simulate real-world cyber threats and incidents. Leveraged Azure Sentinel as a SIEM solution for log analysis and incident management, integrating a Honeynet (Windows and Linux VMs), and enabling the monitoring of security events, alerts, and incidents in real time. This setup enabled continuous security monitoring, automation, and incident response using custom queries and security policies.
+
+**Key Features:**
+- Azure virtual machines (Windows and Linux) for simulated endpoint environments.
+- Integration of Windows Event Logs and Linux Syslog into Azure Log Analytics Workspace.
+- Use of Azure Sentinel for security event monitoring, alert creation, and incident management.
+- Application of security controls and network segmentation for hardened environment.
+- Custom KQL queries to track and analyze metrics (e.g., SecurityEvents, Syslog, SecurityAlerts, SecurityIncidents).
+- Implementation of Azure Firewall and Network Security Group (NSG) rules to restrict unauthorized access.
+
+**Technologies Used:** Virtual Machines (Windows and Linux), Azure Sentinel, KQL, Azure Log Analytics, Azure Firewall, NSGs, PowerShell.
+
+**Skills Demonstrated:** 
+- Setting up and configuring a SOC environment in Azure.
+- Integrating and configuring Azure Sentinel for SIEM operations.
+- Writing and executing KQL queries for real-time log analysis.
+- Implementing network security measures using Azure Firewall and NSGs.
+- Incident response and monitoring of security events and alerts.
+- Continuous improvement through security hardening and performance analysis.
+
+--- 
+
+### 3. SOAR-EDR Integration <a href="https://github.com/MrDerry10/SOAR-EDR">
 <a href="https://github.com/MrDerry10/SOAR-EDR" title="SOAR-EDR Integration Project"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Automation-Logo.png" alt="SOAR EDR Project" style="width:16px;height:16px;vertical-align:middle;">
 </a>
 
@@ -47,7 +73,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 3. Azure Honeypot <a href="https://github.com/MrDerry10/HoneyPot">
+### 4. Azure Honeypot <a href="https://github.com/MrDerry10/HoneyPot">
 - <a href="https://github.com/MrDerry10/HoneyPot" title="HoneyPot">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cloud_computing_%28Azure%29_logo.png" alt="Honeypot project" style="width:16px;height:16px;vertical-align:middle;">
 </a>
@@ -66,7 +92,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 4. Network Security implementation
+### 5. Network Security implementation
 <a href="https://github.com/MrDerry10/NetworkSecurity" title="Network Security Implementation Project"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Network-security.png" alt="Network Security Project" style="width:16px;height:16px;vertical-align:middle;"> </a>
 
 **Description:** Configured a secure, encrypted network using a firewall, VPN, and IDS in a sandbox environment to protect against network threats.
@@ -80,7 +106,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 5. Algorithm for file updates in python 
+### 6. Algorithm for file updates in python 
 - [![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python_logo_2015.svg)](https://github.com/MrDerry10/Algorithm-With-Python)
 
  
@@ -95,7 +121,7 @@ Welcome to my cybersecurity portfolio! Here you'll find a collection of my proje
 
 ---
 
-### 6. Using an Incident handlers journal
+### 7. Using an Incident handlers journal
 - <a href="https://github.com/MrDerry10/Incident-Handling-Journal">
   <img src="https://path-to-your-image/logo.png" alt="Incident Handling Journal" style="width:150px;height:auto;border:0;">
 </a>
